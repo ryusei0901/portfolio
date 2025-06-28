@@ -31,4 +31,3 @@ function updateTime() {
   
   window.addEventListener("scroll", scrollFade);
   window.addEventListener("load", scrollFade);
-  
